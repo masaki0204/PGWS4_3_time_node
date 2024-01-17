@@ -2,7 +2,7 @@
 
 主にシェーダを使ってループアニメーションを実装します。
 
-![結果画像1](movie_001.mp4)
+![結果画像1](https://github.com/masaki0204/PGWS4_3_time_node/assets/91834307/fa684f3e-d465-43c7-a6bb-5e9366561a2e)
 
 ![結果画像2](result1_2.gif)
 
