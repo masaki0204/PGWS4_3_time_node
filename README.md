@@ -2,7 +2,7 @@
 
 主にシェーダを使ってループアニメーションを実装します。
 
-![結果画像1](result1_1.gif)
+![結果画像1](https://github.com/masaki0204/PGWS4_3_time_node/assets/91834307/fa684f3e-d465-43c7-a6bb-5e9366561a2e)
 
 ![結果画像2](result1_2.gif)
 
@@ -10,7 +10,7 @@
 
 ![結果画像](result1.gif)
 
-![シェーダグラフ](node_graph1.png)
+![シェーダグラフ](Shader1.png)
 
 # 自分なりに変更した点
 -
